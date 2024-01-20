@@ -1,6 +1,6 @@
 body {
     color: #434455;
-    font-family: Roboto, sans-serif;
+    font-family: Raleway;
     font-size: 16px;
     font-weight: 400;
     background-color: #fff;
@@ -23,7 +23,7 @@ a {
 }
 
 .logo-studio {
-    color: #2E2F42;
+    color: #2e2f42;
 }
 
 .header-link {
@@ -48,6 +48,10 @@ a {
 .nav-link:hover {
     color: #404bbf;
     text-decoration: underline;
+}
+
+address {
+    font-style: normal;
 }
 
 /* Hero */
@@ -86,80 +90,48 @@ a {
     background-color: #404bbf;
 }
 
+.hero-button:focus {
+    background-color: #404bbf;
+}
+
 
  
 /* Our advantages */
 
- .Strategy {
-    color: #2e2f42;
+ .advantages {
+   color: #2E2F42; 
     font-family: Roboto;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
-}
+ }
 
-p {
-    color: #434455;
+ text {
     font-size: 16px;
-    font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.02em
-}
-
-.Punctuality {
-    color: #2E2F42;
-    font-family: Roboto;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.2em;
-}
-
-p {
-    color: #434455;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-
-.Diligence {
-    color: #2E2F42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
-
-p {
-    color: #434455;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-
-.Technologies {
-    color: #2E2F42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
-
-p {
-    color: #434455;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
+    letter-spacing: 0.02;
+ }
 
 /* Our Team */
 
-.Our Team {
-    background-color: #F4F4FD;
+.team-card {
+    background-color: #fff;
+}
+
+.advantages-title {
+    color: #2E2F42;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;   
+    letter-spacing: 0.02em;
+}
+
+text {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
 }
 
 h2 {
@@ -173,186 +145,25 @@ h2 {
     text-align: center;
 }
 
-
-/* source */
-.Mark Guerrero {
-    color: #2E2F42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
-
-p {
-    color: #434455;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-
-.Tom Ford {
-    color: #2E2F42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
-
-p {
-    color:#434455;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-
-.Camila Garcia {
-    color: #2E2F42;
-    background-color: #fff;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
-
-p {
-    color: #434455;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-
-.Daniel Wilson {
-    color: #2E2F42;
-    background-color: #fff;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
-
-P {
-    color: #434455;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-
-}
-
 /* Our Portfolio */
 
-.Banking App {
-    font-family: Roboto;
-    color:#2E2F42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    
-}
-
-p {
-    font-family: Roboto;
-    color: #434455;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-.Cashless Payment {
-    font-family: Roboto;
+.advantages-title {
     color: #2E2F42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-
-}
-
-p {
     font-family: Roboto;
-    color: #434455;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-
-.Meditation App {
-    font-family: Roboto;
-    color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
 
-p {
-    font-family: Roboto;
-    color: #434455;
+text {
     font-size: 16px;
-    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
-.Taxi Service {
-    font-family: Roboto;
-    color: #2E2F42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
 
-p {
-    font-family: Roboto;
-    color: #434455;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
 
-.Screen Illustrations {
-    font-family: Roboto;
-    color: #2E2F42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
-
-p {
-    font-family: Roboto;
-    color: #434455;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-
-.Online Courses {
-    font-family: Roboto;
-    color: #2E2F42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-
-}
-
-p {
-    font-family: Roboto;
-    color: #434455;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
 
 /* footer */
 
@@ -381,7 +192,7 @@ p {
     
     .logo-ligft {
         color: #F4F4FD;
-        font-family: Raleway;
+        font-family: "Raleway", sans-serif;
         font-size: 18px;
         font-weight: 700;
         line-height: 1.16;
@@ -395,6 +206,7 @@ p {
         line-height: 1.5;
         letter-spacing: 0.02em;
     }
+
 
 
         
