@@ -15,17 +15,16 @@ a {
 /* Header */
 .logo-web {
     color: #4d5ae5;
-    font-family: Raleway; sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
-.logo-studio {
-    color: #2e2f42;
 
-   }
+.logo-studio {
+    color: #2E2F42;
+}
 
 .header-link {
     color: #2e2f42;
@@ -51,10 +50,6 @@ a {
     text-decoration: underline;
 }
 
-.address {
-    font-style: normal;
-}
-
 /* Hero */
 
 .hero-section-Effective {
@@ -78,7 +73,7 @@ a {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.04em;
     cursor: pointer;
     text-align: center;
 }
@@ -109,7 +104,7 @@ p {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px
+    letter-spacing: 0.02em
 }
 
 .Punctuality {
@@ -118,7 +113,7 @@ p {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.2em;
 }
 
 p {
@@ -126,7 +121,7 @@ p {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 .Diligence {
@@ -134,7 +129,7 @@ p {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
 }
 
 p {
@@ -142,7 +137,7 @@ p {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 .Technologies {
@@ -150,7 +145,7 @@ p {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
 }
 
 p {
@@ -158,10 +153,14 @@ p {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 /* Our Team */
+
+.Our Team {
+    background-color: #F4F4FD;
+}
 
 h2 {
     color: #2E2F42;
@@ -169,7 +168,7 @@ h2 {
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
-    letter-spacing: 0.72px;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
 }
@@ -181,7 +180,7 @@ h2 {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
 }
 
 p {
@@ -189,7 +188,7 @@ p {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 .Tom Ford {
@@ -197,7 +196,7 @@ p {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
 }
 
 p {
@@ -205,7 +204,7 @@ p {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 .Camila Garcia {
@@ -214,7 +213,7 @@ p {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
 }
 
 p {
@@ -222,7 +221,7 @@ p {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 .Daniel Wilson {
@@ -231,7 +230,7 @@ p {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
 }
 
 P {
@@ -239,7 +238,7 @@ P {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 
 }
 
@@ -251,7 +250,7 @@ P {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
     
 }
 
@@ -261,7 +260,7 @@ p {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 .Cashless Payment {
     font-family: Roboto;
@@ -269,7 +268,7 @@ p {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
 
 }
 
@@ -279,7 +278,7 @@ p {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 .Meditation App {
@@ -288,7 +287,7 @@ p {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
 }
 
 p {
@@ -297,7 +296,7 @@ p {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 .Taxi Service {
@@ -306,7 +305,7 @@ p {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
 }
 
 p {
@@ -315,7 +314,7 @@ p {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 .Screen Illustrations {
@@ -324,7 +323,7 @@ p {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
 }
 
 p {
@@ -333,7 +332,7 @@ p {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 .Online Courses {
@@ -342,7 +341,7 @@ p {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
 
 }
 
@@ -352,7 +351,7 @@ p {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 /* footer */
@@ -366,7 +365,7 @@ p {
         font-size: 18px;
         font-weight: 700;
         line-height: 1.16;
-        letter-spacing: 0.54px;
+        letter-spacing: 0,03em;
         text-transform: uppercase;
     }
 
@@ -386,7 +385,7 @@ p {
         font-size: 18px;
         font-weight: 700;
         line-height: 1.16;
-        letter-spacing: 0.54px;
+        letter-spacing: 0.03em;
         text-transform: uppercase;
     }
 
